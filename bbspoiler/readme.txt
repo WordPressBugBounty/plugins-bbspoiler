@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: http://goo.gl/CcxWYg
 Tags: box, boxes, collapse, expand, hide, hidden, jquery, faq, faqs, shortcode, content, spoiler, spoilers, bbpress, post, posts, admin, animated, animation, plugin, javascript, answers, questions, knowledgebase, shortcodes, colored, color, accordion, accordions, page, pages, collapsible, display, expandable, slider, slide, media
 Requires at least: 3.9
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: trunk
 
 This plugin allows you to hide text under the tags [spoiler]your text[/spoiler].
